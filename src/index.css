@@ -28,7 +28,7 @@ body {
   position: sticky;
   height: 100vh;
   top: 0;
-}
+} 
 #said.img-sticky {
  filter: brightness(90%);
 }
